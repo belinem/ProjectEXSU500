@@ -1,0 +1,19 @@
+# dataset (CC-BY-SA 4.0, downloaded with notebooks/00_download_data.ipynb)
+data/
+*.tar
+
+# model weights and predictions
+models/
+*.pt
+*.pth
+*.joblib
+results/predictions/
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+._*
+Thumbs.db
