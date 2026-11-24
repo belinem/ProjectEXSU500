@@ -1,0 +1,15 @@
+{
+  "otsu": {
+    "n_classes": 3,
+    "radius": 9
+  },
+  "random_forest": {
+    "max_depth": 20,
+    "threshold": 0.9,
+    "n_trees": 100,
+    "n_per_class": 5000
+  },
+  "unet": {
+    "n_iters": 4250
+  }
+}
