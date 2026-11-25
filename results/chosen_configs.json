@@ -10,6 +10,6 @@
     "n_per_class": 5000
   },
   "unet": {
-    "n_iters": 4250
+    "n_iters": 5000
   }
 }
